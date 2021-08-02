@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c085598bb47d36d9fe3f201e08946d7",
+    "revision": "c1eeab4c8172243b3602db1bbbd9c256",
     "url": "/react_people-table-basics/index.html"
   },
   {
-    "revision": "e28e967c115ad3fae15d",
+    "revision": "9bd1f0191cd1a9a340a9",
     "url": "/react_people-table-basics/static/css/2.1890a892.chunk.css"
   },
   {
-    "revision": "eddad6635413ecef9f2f",
+    "revision": "aba6783870f5af9fc1d9",
     "url": "/react_people-table-basics/static/css/main.f8871b9d.chunk.css"
   },
   {
-    "revision": "e28e967c115ad3fae15d",
-    "url": "/react_people-table-basics/static/js/2.5168a4fd.chunk.js"
+    "revision": "9bd1f0191cd1a9a340a9",
+    "url": "/react_people-table-basics/static/js/2.eedb3b57.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/react_people-table-basics/static/js/2.5168a4fd.chunk.js.LICENSE.txt"
+    "url": "/react_people-table-basics/static/js/2.eedb3b57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eddad6635413ecef9f2f",
-    "url": "/react_people-table-basics/static/js/main.05e6cc1c.chunk.js"
+    "revision": "aba6783870f5af9fc1d9",
+    "url": "/react_people-table-basics/static/js/main.62f1ff97.chunk.js"
   },
   {
     "revision": "30d22e43293fe0ee117b",
